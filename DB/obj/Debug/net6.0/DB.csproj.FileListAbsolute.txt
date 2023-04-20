@@ -1,0 +1,14 @@
+D:\Microsfot Visual Studio\repos\Api\DB\bin\Debug\net6.0\DB.deps.json
+D:\Microsfot Visual Studio\repos\Api\DB\bin\Debug\net6.0\DB.runtimeconfig.json
+D:\Microsfot Visual Studio\repos\Api\DB\bin\Debug\net6.0\DB.dll
+D:\Microsfot Visual Studio\repos\Api\DB\bin\Debug\net6.0\DB.pdb
+D:\Microsfot Visual Studio\repos\Api\DB\obj\Debug\net6.0\DB.csproj.AssemblyReference.cache
+D:\Microsfot Visual Studio\repos\Api\DB\obj\Debug\net6.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsfot Visual Studio\repos\Api\DB\obj\Debug\net6.0\DB.AssemblyInfoInputs.cache
+D:\Microsfot Visual Studio\repos\Api\DB\obj\Debug\net6.0\DB.AssemblyInfo.cs
+D:\Microsfot Visual Studio\repos\Api\DB\obj\Debug\net6.0\DB.csproj.CoreCompileInputs.cache
+D:\Microsfot Visual Studio\repos\Api\DB\obj\Debug\net6.0\DB.dll
+D:\Microsfot Visual Studio\repos\Api\DB\obj\Debug\net6.0\refint\DB.dll
+D:\Microsfot Visual Studio\repos\Api\DB\obj\Debug\net6.0\DB.pdb
+D:\Microsfot Visual Studio\repos\Api\DB\obj\Debug\net6.0\DB.genruntimeconfig.cache
+D:\Microsfot Visual Studio\repos\Api\DB\obj\Debug\net6.0\ref\DB.dll
